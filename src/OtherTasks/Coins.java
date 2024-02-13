@@ -8,8 +8,8 @@ import java.util.Arrays;
  */
 public class Coins {
     //{1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 5};
-    static int[] wallet = {1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 5};
-    static int sum = 6;
+    static int[] wallet = {1, 1, 1, 1, 1, 2, 2, 2, 3, 3, 5,6};
+    static int sum = 13;
     static int count = 0;
 
     public static void main(String[] args) {

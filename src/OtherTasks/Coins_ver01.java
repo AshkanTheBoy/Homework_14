@@ -3,8 +3,8 @@ package OtherTasks;
 import java.util.*;
 
 public class Coins_ver01 {
-    static int[] wallet = {1,2,3,4,5,6};
-    static int sum = 6;
+    static int[] wallet = {1,2,5,1,2,5,2,5,1};
+    static int sum = 15;
     static ArrayList<Integer> coins = new ArrayList<>();
     static ArrayList<int[]> combs = new ArrayList<>();
 

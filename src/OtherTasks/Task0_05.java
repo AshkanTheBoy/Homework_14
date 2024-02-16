@@ -7,7 +7,7 @@ package OtherTasks;
 import java.util.Arrays;
 import java.util.Random;
 
-public class Task_05 {
+public class Task0_05 {
     static Random random = new Random();
     static int[] urn = {1,2,3,4};
     static int[] hand = new int[3];

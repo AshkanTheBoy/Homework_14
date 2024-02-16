@@ -11,7 +11,7 @@ public class Coins_ver02 {
     static Integer[] wallet = {1,2,3,4};
     //[1234,234,34,4,3,24,2,23,134,14,13,124,12,123] - expected result
     static ArrayList<Integer[]> combinations = new ArrayList<>();
-    static int sum = 1;
+    static int sum = 2;
 
     public static void main(String[] args) {
         Arrays.sort(wallet);
